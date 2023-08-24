@@ -1,3 +1,9 @@
+"covidimpact" scours the Internet for the latest data from the following sites:\n
+
+https://data.cdc.gov/NCHS/Monthly-Counts-of-Deaths-by-Select-Causes-2014-201/bxq8-mugm
+
+https://data.cdc.gov/NCHS/Monthly-Provisional-Counts-of-Deaths-by-Select-Cau/9dzk-mvmi
+
 # How to install covidimpact
 $ pip install covidimpact
 
