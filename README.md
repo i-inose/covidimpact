@@ -1,4 +1,4 @@
-"covidimpact" scours the Internet for the latest data from the following sites:\n
+"covidimpact" scours the Internet for the latest data from the following sites.
 
 https://data.cdc.gov/NCHS/Monthly-Counts-of-Deaths-by-Select-Causes-2014-201/bxq8-mugm
 
